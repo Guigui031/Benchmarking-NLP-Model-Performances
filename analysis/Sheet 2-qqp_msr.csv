@@ -1,0 +1,7 @@
+,Universal Sentence Encoder,Universal Sentence Encoder,Universal Sentence Encoder,Universal Sentence Encoder,Universal Sentence Encoder,Universal Sentence Encoder,Universal Sentence Encoder,Universal Sentence Encoder,Universal Sentence Encoder,Universal Sentence Encoder,Universal Sentence Encoder,Universal Sentence Encoder,Universal Sentence Encoder,Universal Sentence Encoder,Universal Sentence Encoder
+,Random classifier,Decision Tree (Gini),Decision Tree (Entropy),SVM (RBF kernel),SVM (linear kernel),Gaussian Naive Bayes,Random Forest (10 trees | d=None),Random Forest (100 trees | d=None),Random Forest (500 trees | d=None),Random Forest (10 trees | d=20),Random Forest (100 trees | d=20),Random Forest (500 trees | d=20),Random Forest (10 trees | d=100),Random Forest (100 trees | d=100),Random Forest (500 trees | d=100)
+Score,0.5228985507246380,0.5176811594202900,0.5176811594202900,0.6701449275362320,0.664927536231884,0.7281159420289860,0.5194202898550730,0.5194202898550730,0.5211594202898550,0.6214492753623190,0.6289855072463770,0.6318840579710150,0.5147826086956520,0.5217391304347830,0.52
+TP,567,561,561,734,724,956,552,567,569,690,701,703,546,570,569
+TN,302,332,332,422,423,300,344,329,330,382,384,387,342,330,328
+FP,276,246,246,156,155,278,234,249,248,196,194,191,236,248,250
+FN,580,586,586,413,423,191,595,580,578,457,446,444,601,577,578
